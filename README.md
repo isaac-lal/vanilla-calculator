@@ -1,4 +1,4 @@
-# Calculator JavaScript Object Oriented Programming | Isaac Lal
+# Vanilla Calculator | Isaac Lal
 
 #### Project created and authored by isaac-lal
 
